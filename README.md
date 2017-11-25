@@ -13,4 +13,13 @@ __Requisitos minimos para ganhar nota:__
 1. Comandos git tem que funcionar para mostrar os commits dos alunos.  
 2. Pelo menos 3 commits diferentes por aluno.  
 3. Demonstrar nos commits uma distribuição uniforme entre os commits dos alunos.  
-4. Sera testado o codigo para verificar PLAGIO da Internet ou de trabalhos passados.  
+4. Sera testado o codigo para verificar PLAGIO da Internet ou de trabalhos passados. 
+
+__To Do:__
+- [x] Process webserver input  
+- [ ] Implements checksum (generation and verification)  
+- [ ] Generate header on backend  
+- [ ] Implements data transmission  
+- [ ] Implements commands execution  
+- [ ] Process output  
+- [ ] Create documentation  
