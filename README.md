@@ -17,9 +17,9 @@ __Requisitos minimos para ganhar nota:__
 
 __To Do:__
 - [x] Process webserver input  
-- [ ] Implements checksum (generation and verification)  
-- [ ] Generate header on backend  
+- [x] Implements checksum (generation and verification)  
+- [x] Generate header on backend  
 - [ ] Implements data transmission  
 - [ ] Implements commands execution  
-- [ ] Process output  
+- [x] Process output  
 - [ ] Create documentation  
