@@ -19,7 +19,7 @@ __To Do:__
 - [x] Process webserver input  
 - [x] Implements checksum (generation and verification)  
 - [x] Generate header on backend  
-- [ ] Implements data transmission  
-- [ ] Implements commands execution  
+- [x] Implements data transmission  
+- [x] Implements commands execution  
 - [x] Process output  
 - [ ] Create documentation  
